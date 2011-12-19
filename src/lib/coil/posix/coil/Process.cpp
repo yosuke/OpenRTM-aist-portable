@@ -38,7 +38,7 @@ namespace coil
    * @brief Launching a process
    * @endif
    */
-  int launch_shell(std::string command)
+  int launch_shell(std::string command, bool wait)
   {
     signal(SIGCHLD, SIG_IGN);
 
@@ -71,6 +71,8 @@ namespace coil
         
         return -1;
       }
+    int status;
+    if (wait) waitpid(pid, &status, 0);
     return 0;
   }
 

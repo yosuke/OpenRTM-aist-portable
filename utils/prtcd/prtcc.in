@@ -1,0 +1,29 @@
+#
+#  @file prtcc
+#  @brief Portable component compilation utility
+#  @author Yosuke Matsusaka <yosuke.matsusaka@aist.go.jp>
+# 
+
+usage()
+{
+        cat <<EOF
+Usage: prtcc [BYTECODE FILE]
+EOF
+        exit $1
+}
+
+MARCH=`uname -m`
+
+case $MARCH in
+arm* )
+  llc -march=arm -relocation-model=pic $1 -o $1.s
+  ;;
+i686 )
+  llc -relocation-model=pic $1 -o $1.s
+  ;;
+* )
+  echo "unsupported platform"
+  ;;
+esac
+
+g++ -shared $1.s $rtm_libs -o $1.dll

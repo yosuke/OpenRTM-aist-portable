@@ -38,6 +38,7 @@ namespace coil
    * れば -1 を返す。
    *
    * @param command 起動する実行ファイルのフルパス
+   * @param wait 実行の終了を待つかどうかのフラグ
    * @return 0: 成功, -1: 失敗
    *
    * @else
@@ -50,11 +51,12 @@ namespace coil
    * returned if it is failed.
    * 
    * @param command full path string to a command to be executed.
+   * @param wait flag to specify whether to wait for end of the command or not.
    * @return 0: successful, -1: failed
    *
    * @endif
    */
-  int launch_shell(std::string command);
+  int launch_shell(std::string command, bool wait=false);
 
   int daemon(int nochdir, int noclose);
 

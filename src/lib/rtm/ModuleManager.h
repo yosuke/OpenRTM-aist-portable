@@ -730,6 +730,14 @@ namespace RTC
     bool m_downloadAllowed;
     /*!
      * @if jp
+     * @brief モジュールURL指定
+     * @else
+     * @brief URL when specify module for the load.
+     * @endif
+     */
+    std::string m_downloadDir;
+    /*!
+     * @if jp
      * @brief モジュール絶対パス指定許可フラグ
      * @else
      * @brief Flag of absolute path when specify module for the load.

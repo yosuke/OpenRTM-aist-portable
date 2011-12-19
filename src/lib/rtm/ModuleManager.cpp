@@ -46,6 +46,7 @@ namespace RTC
     for_each(m_loadPath.begin(), m_loadPath.end(), coil::eraseHeadBlank);
     m_absoluteAllowed = coil::toBool(prop[ALLOW_ABSPATH], "yes", "no", false);
     m_downloadAllowed = coil::toBool(prop[ALLOW_URL], "yes", "no", false);
+    m_downloadDir     = prop[MOD_DWNDIR];
     m_initFuncSuffix  = prop[INITFUNC_SFX];
     m_initFuncPrefix  = prop[INITFUNC_PFX];
   }
@@ -73,6 +74,8 @@ namespace RTC
   {
     RTC_TRACE(("load(fname = %s)", file_name.c_str()));
     if (file_name == "") throw InvalidArguments("Invalid file name.");
+
+    std::string file_path;
     
     if (coil::isURL(file_name))
       {
@@ -82,12 +85,17 @@ namespace RTC
 	  }
 	else
 	  {
-	    throw NotFound("Not implemented.");
+	    file_path = m_downloadDir+std::string(basename((char *)file_name.c_str()));
+	    RTC_TRACE(("wget %s -O %s", file_name.c_str(), file_path.c_str()));
+	    coil::launch_shell("wget "+file_name+" -O "+file_path, true);
+	    if (!fileExist(file_path)) {
+	      RTC_ERROR(("Unable to download %s to %s", file_name.c_str(), file_path.c_str()));
+	      throw NotFound("Unable to download "+file_name+" to "+file_path+".");
+	    }
 	  }
-      }
+      } else
     
     // Find local file from load path or absolute directory
-    std::string file_path;
     if (coil::isAbsolutePath(file_name))
       {
 	if (!m_absoluteAllowed)
@@ -108,6 +116,19 @@ namespace RTC
     if (file_path == "") throw InvalidArguments("Invalid file name.");
     if (!fileExist(file_path)) throw FileNotFound(file_path.c_str());
     
+    if (file_path.length() > 3
+	&& file_path[file_path.length()-3] == '.'
+	&& file_path[file_path.length()-2] == 'b'
+	&& file_path[file_path.length()-1] == 'c') {
+      RTC_TRACE(("prtcc %s", file_path.c_str()));
+      coil::launch_shell("prtcc "+file_path, true);
+      file_path = file_path+".dll";
+      if (!fileExist(file_path)) {
+	RTC_ERROR(("Unable to compile the LLVM bytecode."));
+	throw NotFound("Unable to compile the LLVM bytecode.");
+      }
+    }
+
     DLLEntity* dll(new DLLEntity());
     
     int retval =  dll->dll.open(file_path.c_str());
