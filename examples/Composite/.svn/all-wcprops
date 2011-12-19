@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/OpenRTM-aist/!svn/ver/2223/trunk/OpenRTM-aist/examples/Composite
+END
+README.Controller
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/Composite/README.Controller
+END
+Motor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/Composite/Motor.cpp
+END
+ControllerComp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/Composite/ControllerComp.cpp
+END
+Composite.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/Composite/Composite.cpp
+END
+Makefile.Sensor
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/Composite/Makefile.Sensor
+END
+gen_controller.sh
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/Composite/gen_controller.sh
+END
+Motor.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/Composite/Motor.h
+END
+composite.conf
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/Composite/composite.conf
+END
+Sensor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/Composite/Sensor.cpp
+END
+README.Motor
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/Composite/README.Motor
+END
+rtc_win32.conf
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/Composite/rtc_win32.conf
+END
+Sensor.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/Composite/Sensor.h
+END
+Makefile.Controller
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/Composite/Makefile.Controller
+END
+MotorComp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/Composite/MotorComp.cpp
+END
+gen_motor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/Composite/gen_motor.sh
+END
+Controller.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/Composite/Controller.cpp
+END
+README.Sensor
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/Composite/README.Sensor
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/Composite/Makefile.am
+END
+Controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/Composite/Controller.h
+END
+SensorComp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/Composite/SensorComp.cpp
+END
+gen_sensor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/Composite/gen_sensor.sh
+END
+Makefile.Motor
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/Composite/Makefile.Motor
+END
+rtc.conf
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/Composite/rtc.conf
+END

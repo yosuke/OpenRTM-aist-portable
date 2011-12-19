@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/StringIO
+END
+StringOut.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/StringIO/StringOut.cpp
+END
+StringIn.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/StringIO/StringIn.h
+END
+StringOut.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/StringIO/StringOut.h
+END
+Makefile.StringIn
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/StringIO/Makefile.StringIn
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/StringIO/Makefile.am
+END
+Makefile.StringOut
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/StringIO/Makefile.StringOut
+END
+StringInComp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/StringIO/StringInComp.cpp
+END
+StringIn.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/StringIO/StringIn.cpp
+END
+StringOutComp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/StringIO/StringOutComp.cpp
+END

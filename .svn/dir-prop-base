@@ -1,0 +1,33 @@
+K 10
+svn:ignore
+V 402
+svn: warning: cannot set LC_CTYPE locale
+svn: warning: environment variable LANG is JPN
+svn: warning: please check that your locale name is correct
+Makefile.in
+aclocal.m4
+config.guess
+config.sub
+configure
+depcomp
+install-sh
+libtool.m4
+ltmain.sh
+missing
+INSTALL
+
+
+Makefile
+autom4te.cache
+config.log
+config.status
+libtool
+OpenRTM-aist-1.1.0-win32.zip
+OpenRTM-aist-1.1.0.tar.bz2
+OpenRTM-aist-1.1.0.tar.gz
+
+K 13
+svn:mergeinfo
+V 43
+/branches/RELENG_1_1/OpenRTM-aist:2126-2150
+END

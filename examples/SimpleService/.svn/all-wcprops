@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/SimpleService
+END
+MyServiceProviderComp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/SimpleService/MyServiceProviderComp.cpp
+END
+gen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/SimpleService/gen.sh
+END
+MyServiceConsumerComp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/SimpleService/MyServiceConsumerComp.cpp
+END
+MyServiceSVC_impl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/SimpleService/MyServiceSVC_impl.cpp
+END
+MyServiceSVC_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/SimpleService/MyServiceSVC_impl.h
+END
+Makefile.MyServiceProvider
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/SimpleService/Makefile.MyServiceProvider
+END
+Makefile.MyServiceConsumer
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/SimpleService/Makefile.MyServiceConsumer
+END
+MyServiceProvider.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/SimpleService/MyServiceProvider.cpp
+END
+MyServiceConsumer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/SimpleService/MyServiceConsumer.cpp
+END
+MyServiceProvider.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/SimpleService/MyServiceProvider.h
+END
+MyServiceConsumer.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/SimpleService/MyServiceConsumer.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/SimpleService/Makefile.am
+END
+rtc.conf
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/SimpleService/rtc.conf
+END
+README.MyServiceProvider
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/SimpleService/README.MyServiceProvider
+END
+MyService.idl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/SimpleService/MyService.idl
+END
+README.MyServiceConsumer
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/SimpleService/README.MyServiceConsumer
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/utils/rtm-manager
+END
+NSHelper.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/utils/rtm-manager/NSHelper.py
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/utils/rtm-manager/Makefile.am
+END
+rtm-manager
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/utils/rtm-manager/rtm-manager
+END

@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/Templates
+END
+Fiducial.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/Templates/Fiducial.xml
+END
+Localise2D.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/Templates/Localise2D.xml
+END
+Limb.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/Templates/Limb.xml
+END
+VelocityControl2D.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/Templates/VelocityControl2D.xml
+END
+HeadingControl2D.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/Templates/HeadingControl2D.xml
+END
+Odometry2D.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/Templates/Odometry2D.xml
+END
+FeatureMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/Templates/FeatureMap.xml
+END
+GPS.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/Templates/GPS.xml
+END
+INS.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/Templates/INS.xml
+END
+Bumper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/Templates/Bumper.xml
+END
+PoseControl2D.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/Templates/PoseControl2D.xml
+END
+PathFollower3D.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/Templates/PathFollower3D.xml
+END
+PathPlanner3D.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/Templates/PathPlanner3D.xml
+END
+AIO.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/Templates/AIO.xml
+END
+Gripper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/Templates/Gripper.xml
+END
+CarlikeControl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/Templates/CarlikeControl.xml
+END
+DIO.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/Templates/DIO.xml
+END
+Ranger.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/Templates/Ranger.xml
+END
+PointCloud.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/Templates/PointCloud.xml
+END
+Localise3D.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/Templates/Localise3D.xml
+END
+RFID.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/Templates/RFID.xml
+END
+VelocityControl3D.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/Templates/VelocityControl3D.xml
+END
+HeadingControl3D.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/Templates/HeadingControl3D.xml
+END
+OccupancyGridMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/Templates/OccupancyGridMap.xml
+END
+Camera.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/Templates/Camera.xml
+END
+Odometry3D.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/Templates/Odometry3D.xml
+END
+IMU.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/Templates/IMU.xml
+END
+Power.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/Templates/Power.xml
+END
+PathFollower2D.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/Templates/PathFollower2D.xml
+END
+PoseControl3D.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/Templates/PoseControl3D.xml
+END
+Joystick.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/Templates/Joystick.xml
+END
+PathPlanner2D.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/Templates/PathPlanner2D.xml
+END
+Multicamera.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/Templates/Multicamera.xml
+END
+ActArray.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/Templates/ActArray.xml
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/Templates/Makefile.am
+END
+PanTilt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/Templates/PanTilt.xml
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/win32/OpenRTM-aist/examples/SimpleService
+END
+MyServiceProvidervc8.vcproj.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/win32/OpenRTM-aist/examples/SimpleService/MyServiceProvidervc8.vcproj.yaml
+END
+MyServiceConsumervc8.vcproj.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/win32/OpenRTM-aist/examples/SimpleService/MyServiceConsumervc8.vcproj.yaml
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/win32/OpenRTM-aist/examples/SimpleService/Makefile.am
+END
+MyServiceProvidervc8.vcproj.in
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/win32/OpenRTM-aist/examples/SimpleService/MyServiceProvidervc8.vcproj.in
+END
+MyServiceConsumervc8.vcproj.in
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/win32/OpenRTM-aist/examples/SimpleService/MyServiceConsumervc8.vcproj.in
+END

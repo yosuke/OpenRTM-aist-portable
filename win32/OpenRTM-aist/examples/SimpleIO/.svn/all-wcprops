@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/win32/OpenRTM-aist/examples/SimpleIO
+END
+ConsoleInvc8.vcproj.in
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/win32/OpenRTM-aist/examples/SimpleIO/ConsoleInvc8.vcproj.in
+END
+ConsoleOutvc8.vcproj.in
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/win32/OpenRTM-aist/examples/SimpleIO/ConsoleOutvc8.vcproj.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/win32/OpenRTM-aist/examples/SimpleIO/Makefile.am
+END
+ConsoleInvc8.vcproj.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/win32/OpenRTM-aist/examples/SimpleIO/ConsoleInvc8.vcproj.yaml
+END
+ConsoleOutvc8.vcproj.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/win32/OpenRTM-aist/examples/SimpleIO/ConsoleOutvc8.vcproj.yaml
+END

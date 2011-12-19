@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/OpenRTM-aist/!svn/ver/2233/trunk/OpenRTM-aist/src/lib/doil/utils/omniidl_be/tests/unitTest/DataFlowComponentActionServant
+END
+DataFlowComponentActionServantTests.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/src/lib/doil/utils/omniidl_be/tests/unitTest/DataFlowComponentActionServant/DataFlowComponentActionServantTests.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/src/lib/doil/utils/omniidl_be/tests/unitTest/DataFlowComponentActionServant/Makefile.am
+END

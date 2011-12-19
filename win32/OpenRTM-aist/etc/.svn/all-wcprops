@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/OpenRTM-aist/!svn/ver/2183/trunk/OpenRTM-aist/win32/OpenRTM-aist/etc
+END
+coil_config_omni412.vsprops
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/win32/OpenRTM-aist/etc/coil_config_omni412.vsprops
+END
+rtm_config_omni407.vsprops
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/win32/OpenRTM-aist/etc/rtm_config_omni407.vsprops
+END
+coil_config_omni407.vsprops
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/win32/OpenRTM-aist/etc/coil_config_omni407.vsprops
+END
+rtm_config_omni414.props
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/OpenRTM-aist/!svn/ver/2183/trunk/OpenRTM-aist/win32/OpenRTM-aist/etc/rtm_config_omni414.props
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/win32/OpenRTM-aist/etc/Makefile.am
+END
+rtm_config_omni412.vsprops
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/win32/OpenRTM-aist/etc/rtm_config_omni412.vsprops
+END
+etc.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/win32/OpenRTM-aist/etc/etc.yaml
+END
+rtm_config_omni414.vsprops
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/win32/OpenRTM-aist/etc/rtm_config_omni414.vsprops
+END

@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 175
+svn: warning: cannot set LC_CTYPE locale
+svn: warning: environment variable LANG is JPN
+svn: warning: please check that your locale name is correct
+Makefile.in
+Makefile
+.deps
+
+END

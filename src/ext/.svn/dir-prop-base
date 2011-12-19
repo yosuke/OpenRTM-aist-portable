@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 21
+Makefile.in
+Makefile
+
+K 13
+svn:mergeinfo
+V 56
+/branches/RELENG_1_1/OpenRTM-aist/src/ext:2126-2150,2178
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/OpenRTM-aist/!svn/ver/2184/trunk/OpenRTM-aist/utils/rtm-naming
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/utils/rtm-naming/Makefile.am
+END
+rtm-naming.in
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/OpenRTM-aist/!svn/ver/2184/trunk/OpenRTM-aist/utils/rtm-naming/rtm-naming.in
+END

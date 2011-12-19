@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/utils/rtc-template
+END
+test-template.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/utils/rtc-template/test-template.py
+END
+profile_gen.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/utils/rtc-template/profile_gen.py
+END
+autotest.sh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/utils/rtc-template/autotest.sh
+END
+python_gen.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/utils/rtc-template/python_gen.py
+END
+rtc-template
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/utils/rtc-template/rtc-template
+END
+cxx_gen.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/utils/rtc-template/cxx_gen.py
+END
+vcproj_gen.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/utils/rtc-template/vcproj_gen.py
+END
+cxx_svc_impl.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/utils/rtc-template/cxx_svc_impl.py
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/utils/rtc-template/Makefile.am
+END
+gen_base.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/utils/rtc-template/gen_base.py
+END
+README_gen.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/utils/rtc-template/README_gen.py
+END
+uuid.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/utils/rtc-template/uuid.py
+END

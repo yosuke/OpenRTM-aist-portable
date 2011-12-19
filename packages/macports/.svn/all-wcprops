@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/packages/macports
+END
+port_install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/packages/macports/port_install.sh
+END
+Portfile
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/packages/macports/Portfile
+END
+ports.tgz
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/packages/macports/ports.tgz
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/OpenRTM-aist/!svn/ver/2208/trunk/OpenRTM-aist/etc
+END
+component.conf
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/etc/component.conf
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/etc/Makefile.am
+END
+rtc.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/OpenRTM-aist/!svn/ver/2208/trunk/OpenRTM-aist/etc/rtc.conf.sample
+END

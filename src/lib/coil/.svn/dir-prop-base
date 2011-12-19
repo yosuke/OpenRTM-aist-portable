@@ -1,0 +1,24 @@
+K 10
+svn:ignore
+V 202
+Makefile.in
+config_coil.h.in
+Makefile
+.deps
+aclocal.m4
+autom4te.cache
+config.guess
+config.log
+config.status
+config.sub
+configure
+depcomp
+install-sh
+libtool.m4
+libtool
+ltmain.sh
+missing
+stamp-h1
+INSTALL
+
+END

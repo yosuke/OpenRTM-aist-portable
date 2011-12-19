@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 44
+Makefile
+.deps
+Makefile.in
+config_coil.h.in
+
+END

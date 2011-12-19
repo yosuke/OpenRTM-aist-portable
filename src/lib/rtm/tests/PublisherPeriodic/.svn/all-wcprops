@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/src/lib/rtm/tests/PublisherPeriodic
+END
+PublisherPeriodicTests.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/src/lib/rtm/tests/PublisherPeriodic/PublisherPeriodicTests.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/src/lib/rtm/tests/PublisherPeriodic/Makefile.am
+END
+rtc.conf
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/src/lib/rtm/tests/PublisherPeriodic/rtc.conf
+END

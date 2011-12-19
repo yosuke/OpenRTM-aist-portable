@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/tests
+END
+ConfigurationSDOPackageTest.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/tests/ConfigurationSDOPackageTest.py
+END
+AddRemoveOrganizationSDOPackageTest.sh
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/tests/AddRemoveOrganizationSDOPackageTest.sh
+END
+CreateDeleteRTCTest.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/tests/CreateDeleteRTCTest.py
+END
+SDOPackageTest.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/tests/SDOPackageTest.py
+END
+AddRemoveRTCTest.sh
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/tests/AddRemoveRTCTest.sh
+END
+AddRemoveMemberSDOPackageTest.sh
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/tests/AddRemoveMemberSDOPackageTest.sh
+END
+rtc_handle.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/tests/rtc_handle.py
+END
+ServiceProfileSDOPackageTest.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/tests/ServiceProfileSDOPackageTest.py
+END
+SetMemberSDOPackageTest.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/tests/SetMemberSDOPackageTest.py
+END
+OrganizationSDOPackageTest.sh
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/tests/OrganizationSDOPackageTest.sh
+END
+ManagerTest.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/tests/ManagerTest.py
+END
+ConfigurationSDOPackageTest.sh
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/tests/ConfigurationSDOPackageTest.sh
+END
+DataPortTest.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/tests/DataPortTest.py
+END
+CreateDeleteRTCTest.sh
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/tests/CreateDeleteRTCTest.sh
+END
+SDOPackageTest.sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/tests/SDOPackageTest.sh
+END
+rtc.conf
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/tests/rtc.conf
+END
+ServiceProfileSDOPackageTest.sh
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/tests/ServiceProfileSDOPackageTest.sh
+END
+AttachDetachRTCTest.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/tests/AttachDetachRTCTest.py
+END
+SetMemberSDOPackageTest.sh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/tests/SetMemberSDOPackageTest.sh
+END
+RTCTest.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/tests/RTCTest.py
+END
+ManagerTest.sh
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/tests/ManagerTest.sh
+END
+DataPortTest.sh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/tests/DataPortTest.sh
+END
+ConnectRTCTest.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/tests/ConnectRTCTest.py
+END
+AttachDetachRTCTest.sh
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/tests/AttachDetachRTCTest.sh
+END
+RTCTest.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/tests/RTCTest.sh
+END
+AddRemoveOrganizationSDOPackageTest.py
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/tests/AddRemoveOrganizationSDOPackageTest.py
+END
+AddRemoveRTCTest.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/tests/AddRemoveRTCTest.py
+END
+AddRemoveMemberSDOPackageTest.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/tests/AddRemoveMemberSDOPackageTest.py
+END
+CorbaNaming.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/tests/CorbaNaming.py
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/tests/Makefile.am
+END
+setup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/tests/setup.sh
+END
+ConnectRTCTest.sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/tests/ConnectRTCTest.sh
+END
+OrganizationSDOPackageTest.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/tests/OrganizationSDOPackageTest.py
+END
+run.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/tests/run.sh
+END

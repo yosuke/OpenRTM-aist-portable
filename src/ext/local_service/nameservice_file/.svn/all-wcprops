@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/OpenRTM-aist/!svn/ver/2236/trunk/OpenRTM-aist/src/ext/local_service/nameservice_file
+END
+FileNameservice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/OpenRTM-aist/!svn/ver/2236/trunk/OpenRTM-aist/src/ext/local_service/nameservice_file/FileNameservice.cpp
+END
+FileNameservice.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/OpenRTM-aist/!svn/ver/2222/trunk/OpenRTM-aist/src/ext/local_service/nameservice_file/FileNameservice.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/OpenRTM-aist/!svn/ver/2222/trunk/OpenRTM-aist/src/ext/local_service/nameservice_file/Makefile.am
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/OpenRTM-aist/!svn/ver/2223/trunk/OpenRTM-aist/packages/deb
+END
+ubuntu_repo.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/packages/deb/ubuntu_repo.sh
+END
+debian_repo.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/packages/deb/debian_repo.sh
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/packages/deb/control
+END
+compat
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/packages/deb/compat
+END
+changelog
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/packages/deb/changelog
+END
+ubuntu_debcp.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/packages/deb/ubuntu_debcp.sh
+END
+docs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/packages/deb/docs
+END
+debian_debcp.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/packages/deb/debian_debcp.sh
+END
+rules
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/packages/deb/rules
+END
+dirs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/packages/deb/dirs
+END
+copyright
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/packages/deb/copyright
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/packages/deb/Makefile.am
+END
+dpkg_build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/packages/deb/dpkg_build.sh
+END
+dpkgbuild.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/packages/deb/dpkgbuild.sh
+END
+README.Debian
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/packages/deb/README.Debian
+END

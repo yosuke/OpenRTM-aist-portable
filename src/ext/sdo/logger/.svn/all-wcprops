@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/OpenRTM-aist/!svn/ver/2179/trunk/OpenRTM-aist/src/ext/sdo/logger
+END
+LoggerConsumer.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/src/ext/sdo/logger/LoggerConsumer.h
+END
+Logger.idl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/src/ext/sdo/logger/Logger.idl
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/OpenRTM-aist/!svn/ver/2179/trunk/OpenRTM-aist/src/ext/sdo/logger/Makefile.am
+END
+LoggerConsumer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/src/ext/sdo/logger/LoggerConsumer.cpp
+END

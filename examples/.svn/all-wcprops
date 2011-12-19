@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/OpenRTM-aist/!svn/ver/2223/trunk/OpenRTM-aist/examples
+END
+rtcdll.vcproj.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/rtcdll.vcproj.yaml
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/Makefile.am
+END
+rtc.vcproj.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/rtc.vcproj.yaml
+END

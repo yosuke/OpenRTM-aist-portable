@@ -1,0 +1,14 @@
+K 10
+svn:ignore
+V 63
+Makefile.in
+.deps
+.libs
+Makefile
+*.cpp
+idl-stamp
+*.cc
+*.h
+*.hh
+
+END

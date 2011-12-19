@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/win32/OpenRTM-aist/bin
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/win32/OpenRTM-aist/bin/Makefile.am
+END
+rtc.conf
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/win32/OpenRTM-aist/bin/rtc.conf
+END
+rtm-naming.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/win32/OpenRTM-aist/bin/rtm-naming.bat
+END

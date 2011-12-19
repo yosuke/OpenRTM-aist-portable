@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/HelloWorld
+END
+HelloRTWorldComp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/HelloWorld/HelloRTWorldComp.cpp
+END
+HelloRTWorld.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/HelloWorld/HelloRTWorld.cpp
+END
+HelloRTWorld.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/HelloWorld/HelloRTWorld.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/HelloWorld/Makefile.am
+END
+run.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/HelloWorld/run.sh
+END

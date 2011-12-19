@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/OpenRTM-aist/!svn/ver/2240/trunk/OpenRTM-aist
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/AUTHORS
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/ChangeLog
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/README
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/OpenRTM-aist/!svn/ver/2225/trunk/OpenRTM-aist/configure.ac
+END
+openrtm.m4
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/openrtm.m4
+END
+README.jp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/README.jp
+END
+acinclude.m4
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/acinclude.m4
+END
+COPYRIGHT
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/COPYRIGHT
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/Makefile.am
+END
+README.packages
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/README.packages
+END
+TUTORIAL.jp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/TUTORIAL.jp
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/OpenRTM-aist/!svn/ver/2216/trunk/OpenRTM-aist/autogen.sh
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/NEWS
+END
+COPYING.LIB
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/COPYING.LIB
+END
+INSTALL.jp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/INSTALL.jp
+END

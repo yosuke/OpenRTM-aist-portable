@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/OpenRTM-aist/!svn/ver/2223/trunk/OpenRTM-aist/examples/AutoTest
+END
+ConnectTest.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/AutoTest/ConnectTest.py
+END
+AutoTestIn.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/AutoTest/AutoTestIn.cpp
+END
+AutoTestOut.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/AutoTest/AutoTestOut.cpp
+END
+AutoTestIn.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/AutoTest/AutoTestIn.h
+END
+AutoTestOut.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/AutoTest/AutoTestOut.h
+END
+rtc_handle.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/AutoTest/rtc_handle.py
+END
+README.AutoTestIn
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/AutoTest/README.AutoTestIn
+END
+README.AutoTestOut
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/AutoTest/README.AutoTestOut
+END
+AutoTestInComp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/AutoTest/AutoTestInComp.cpp
+END
+AutoTestService.idl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/AutoTest/AutoTestService.idl
+END
+AutoTestOutComp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/AutoTest/AutoTestOutComp.cpp
+END
+CorbaNaming.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/AutoTest/CorbaNaming.py
+END
+AutoTestServiceSVC_impl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/AutoTest/AutoTestServiceSVC_impl.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/AutoTest/Makefile.am
+END
+TestsConnection.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/AutoTest/TestsConnection.py
+END
+setup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/AutoTest/setup.sh
+END
+Makefile.AutoTestIn
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/AutoTest/Makefile.AutoTestIn
+END
+gen_data.sh
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/AutoTest/gen_data.sh
+END
+original-data
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/AutoTest/original-data
+END
+Makefile.AutoTestOut
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/AutoTest/Makefile.AutoTestOut
+END
+AutoTestServiceSVC_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/AutoTest/AutoTestServiceSVC_impl.h
+END
+rtc.conf
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/AutoTest/rtc.conf
+END

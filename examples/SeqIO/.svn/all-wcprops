@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/SeqIO
+END
+SeqInComp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/SeqIO/SeqInComp.cpp
+END
+SeqIn.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/SeqIO/SeqIn.cpp
+END
+SeqOutComp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/SeqIO/SeqOutComp.cpp
+END
+SeqOut.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/SeqIO/SeqOut.cpp
+END
+gen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/SeqIO/gen.sh
+END
+SeqIn.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/SeqIO/SeqIn.h
+END
+SeqOut.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/SeqIO/SeqOut.h
+END
+component.conf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/SeqIO/component.conf
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/SeqIO/Makefile.am
+END
+Makefile.SeqIn
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/SeqIO/Makefile.SeqIn
+END
+README.SeqIn
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/SeqIO/README.SeqIn
+END
+Makefile.SeqOut
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/SeqIO/Makefile.SeqOut
+END
+README.SeqOut
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/SeqIO/README.SeqOut
+END
+rtc.conf
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/SeqIO/rtc.conf
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/src/lib/rtm/tests/SdoOrganization
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/src/lib/rtm/tests/SdoOrganization/Makefile.am
+END
+rtc.conf
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/src/lib/rtm/tests/SdoOrganization/rtc.conf
+END
+SdoOrganizationTests.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/src/lib/rtm/tests/SdoOrganization/SdoOrganizationTests.cpp
+END

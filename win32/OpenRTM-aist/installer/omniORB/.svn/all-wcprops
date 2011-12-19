@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/OpenRTM-aist/!svn/ver/2186/trunk/OpenRTM-aist/win32/OpenRTM-aist/installer/omniORB
+END
+omniORB_inc.wxs.in
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/OpenRTM-aist/!svn/ver/2186/trunk/OpenRTM-aist/win32/OpenRTM-aist/installer/omniORB/omniORB_inc.wxs.in
+END
+omniwxs.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/win32/OpenRTM-aist/installer/omniORB/omniwxs.py
+END

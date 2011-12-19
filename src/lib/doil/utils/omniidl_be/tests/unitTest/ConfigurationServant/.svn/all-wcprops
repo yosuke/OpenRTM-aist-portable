@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/OpenRTM-aist/!svn/ver/2233/trunk/OpenRTM-aist/src/lib/doil/utils/omniidl_be/tests/unitTest/ConfigurationServant
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/src/lib/doil/utils/omniidl_be/tests/unitTest/ConfigurationServant/Makefile.am
+END
+ConfigurationServantTests.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/src/lib/doil/utils/omniidl_be/tests/unitTest/ConfigurationServant/ConfigurationServantTests.cpp
+END

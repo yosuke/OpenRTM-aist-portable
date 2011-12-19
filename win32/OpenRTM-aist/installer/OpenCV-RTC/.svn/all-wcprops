@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/OpenRTM-aist/!svn/ver/2205/trunk/OpenRTM-aist/win32/OpenRTM-aist/installer/OpenCV-RTC
+END
+OpenCVRTC_bin.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/OpenRTM-aist/!svn/ver/2205/trunk/OpenRTM-aist/win32/OpenRTM-aist/installer/OpenCV-RTC/OpenCVRTC_bin.yaml
+END
+opencvrtcwxs.py
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/OpenRTM-aist/!svn/ver/2205/trunk/OpenRTM-aist/win32/OpenRTM-aist/installer/OpenCV-RTC/opencvrtcwxs.py
+END
+OpenCV-RTC_inc.wxs.in
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/OpenRTM-aist/!svn/ver/2189/trunk/OpenRTM-aist/win32/OpenRTM-aist/installer/OpenCV-RTC/OpenCV-RTC_inc.wxs.in
+END

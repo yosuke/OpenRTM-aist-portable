@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/SimpleIO
+END
+ConsoleIn.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/SimpleIO/ConsoleIn.h
+END
+ConsoleOut.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/SimpleIO/ConsoleOut.h
+END
+gen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/SimpleIO/gen.sh
+END
+README.ConsoleIn
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/SimpleIO/README.ConsoleIn
+END
+component.conf
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/SimpleIO/component.conf
+END
+README.ConsoleOut
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/SimpleIO/README.ConsoleOut
+END
+ConsoleInComp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/SimpleIO/ConsoleInComp.cpp
+END
+ConsoleOutComp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/SimpleIO/ConsoleOutComp.cpp
+END
+ConnectorComp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/SimpleIO/ConnectorComp.cpp
+END
+rtc.conf.org
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/SimpleIO/rtc.conf.org
+END
+Makefile.ConsoleIn
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/SimpleIO/Makefile.ConsoleIn
+END
+Makefile.ConsoleOut
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/SimpleIO/Makefile.ConsoleOut
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/SimpleIO/Makefile.am
+END
+ConsoleIn.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/SimpleIO/ConsoleIn.cpp
+END
+ConsoleOut.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/SimpleIO/ConsoleOut.cpp
+END
+rtc.conf
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/SimpleIO/rtc.conf
+END
+consin.conf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/SimpleIO/consin.conf
+END
+run.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/SimpleIO/run.sh
+END
+consout.conf
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/examples/SimpleIO/consout.conf
+END

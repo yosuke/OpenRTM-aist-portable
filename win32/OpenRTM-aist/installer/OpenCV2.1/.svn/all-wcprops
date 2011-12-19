@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/OpenRTM-aist/!svn/ver/2205/trunk/OpenRTM-aist/win32/OpenRTM-aist/installer/OpenCV2.1
+END
+opencvwxs.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/OpenRTM-aist/!svn/ver/2205/trunk/OpenRTM-aist/win32/OpenRTM-aist/installer/OpenCV2.1/opencvwxs.py
+END
+OpenCV_inc.wxs.in
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/OpenRTM-aist/!svn/ver/2205/trunk/OpenRTM-aist/win32/OpenRTM-aist/installer/OpenCV2.1/OpenCV_inc.wxs.in
+END
+OpenCV22_inc.wxs.in
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/OpenRTM-aist/!svn/ver/2205/trunk/OpenRTM-aist/win32/OpenRTM-aist/installer/OpenCV2.1/OpenCV22_inc.wxs.in
+END

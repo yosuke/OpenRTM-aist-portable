@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/win32/OpenRTM-aist/rtm/idl
+END
+libRTCSkelvc8.vcproj.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/win32/OpenRTM-aist/rtm/idl/libRTCSkelvc8.vcproj.yaml
+END
+libRTCSkelvc8.vcproj.in
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/win32/OpenRTM-aist/rtm/idl/libRTCSkelvc8.vcproj.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/win32/OpenRTM-aist/rtm/idl/Makefile.am
+END

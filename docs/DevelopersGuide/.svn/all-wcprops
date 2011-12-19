@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/docs/DevelopersGuide
+END
+Specification.tex
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/docs/DevelopersGuide/Specification.tex
+END
+Programming.tex
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/docs/DevelopersGuide/Programming.tex
+END
+ClassReference.tex
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/docs/DevelopersGuide/ClassReference.tex
+END
+DevelopersGuide.tex
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/docs/DevelopersGuide/DevelopersGuide.tex
+END
+classref.conf
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/docs/DevelopersGuide/classref.conf
+END
+IDLReference.tex
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/docs/DevelopersGuide/IDLReference.tex
+END
+rtcmac.sty
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/docs/DevelopersGuide/rtcmac.sty
+END
+idlref.conf
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/docs/DevelopersGuide/idlref.conf
+END
+tascmac.sty
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/docs/DevelopersGuide/tascmac.sty
+END
+rtmbook.cls
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/docs/DevelopersGuide/rtmbook.cls
+END
+Tools.tex
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/docs/DevelopersGuide/Tools.tex
+END
+Structure.tex
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/docs/DevelopersGuide/Structure.tex
+END
+doxygen.conf
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/docs/DevelopersGuide/doxygen.conf
+END
+Tutorial.tex
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/docs/DevelopersGuide/Tutorial.tex
+END
+Overview.tex
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/docs/DevelopersGuide/Overview.tex
+END
+ascmac.sty
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/docs/DevelopersGuide/ascmac.sty
+END
+DevelopersGuideNoClassRef.tex
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/docs/DevelopersGuide/DevelopersGuideNoClassRef.tex
+END
+Appendix.tex
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/docs/DevelopersGuide/Appendix.tex
+END
+eclbkbox.sty
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/docs/DevelopersGuide/eclbkbox.sty
+END
+dox.awk
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/docs/DevelopersGuide/dox.awk
+END
+TitlePage.tex
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/docs/DevelopersGuide/TitlePage.tex
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/docs/DevelopersGuide/Makefile
+END
+epsbox.sty
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/docs/DevelopersGuide/epsbox.sty
+END

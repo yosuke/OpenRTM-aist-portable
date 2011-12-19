@@ -1,0 +1,14 @@
+K 10
+svn:ignore
+V 88
+Makefile
+Makefile.in
+.deps
+config_rtc.h.in
+config_rtc.h
+stamp-h1
+version.h
+
+version.txt
+
+END

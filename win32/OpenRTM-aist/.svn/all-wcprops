@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/OpenRTM-aist/!svn/ver/2223/trunk/OpenRTM-aist/win32/OpenRTM-aist
+END
+rtm_distbuild.vsprops
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/win32/OpenRTM-aist/rtm_distbuild.vsprops
+END
+OpenRTM-aist.sln.dep
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/win32/OpenRTM-aist/OpenRTM-aist.sln.dep
+END
+autobuild_vc10.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/OpenRTM-aist/!svn/ver/2187/trunk/OpenRTM-aist/win32/OpenRTM-aist/autobuild_vc10.bat
+END
+rtm_distbuild.props
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/win32/OpenRTM-aist/rtm_distbuild.props
+END
+RunAtFirst.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/win32/OpenRTM-aist/RunAtFirst.py
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/win32/OpenRTM-aist/Makefile.am
+END
+autobuild_vc8.bat
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/win32/OpenRTM-aist/autobuild_vc8.bat
+END
+autobuild_vc9.bat
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/win32/OpenRTM-aist/autobuild_vc9.bat
+END

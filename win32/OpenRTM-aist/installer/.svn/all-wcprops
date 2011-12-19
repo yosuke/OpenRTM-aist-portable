@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/OpenRTM-aist/!svn/ver/2205/trunk/OpenRTM-aist/win32/OpenRTM-aist/installer
+END
+WixUI_uk-ua.wxl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/win32/OpenRTM-aist/installer/WixUI_uk-ua.wxl
+END
+WixUI_ko-kr.wxl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/win32/OpenRTM-aist/installer/WixUI_ko-kr.wxl
+END
+langs.txt
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/win32/OpenRTM-aist/installer/langs.txt
+END
+WixUI_pl-pl.wxl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/win32/OpenRTM-aist/installer/WixUI_pl-pl.wxl
+END
+WixUI_it-it.wxl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/win32/OpenRTM-aist/installer/WixUI_it-it.wxl
+END
+WixUI_hu-hu.wxl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/win32/OpenRTM-aist/installer/WixUI_hu-hu.wxl
+END
+WixUI_en-us.wxl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/win32/OpenRTM-aist/installer/WixUI_en-us.wxl
+END
+VC8msm_inc.wxs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/win32/OpenRTM-aist/installer/VC8msm_inc.wxs
+END
+VC9msm_inc.wxs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/win32/OpenRTM-aist/installer/VC9msm_inc.wxs
+END
+WiLangId.vbs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/win32/OpenRTM-aist/installer/WiLangId.vbs
+END
+crean.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/win32/OpenRTM-aist/installer/crean.cmd
+END
+VC10msm_inc.wxs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/win32/OpenRTM-aist/installer/VC10msm_inc.wxs
+END
+WixUI_ja-jp.wxl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/OpenRTM-aist/!svn/ver/2185/trunk/OpenRTM-aist/win32/OpenRTM-aist/installer/WixUI_ja-jp.wxl
+END
+WiSubStg.vbs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/win32/OpenRTM-aist/installer/WiSubStg.vbs
+END
+WixUI_Mondo_RTM.wxs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/win32/OpenRTM-aist/installer/WixUI_Mondo_RTM.wxs
+END
+OpenRTM-aist.wxs.in
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/OpenRTM-aist/!svn/ver/2200/trunk/OpenRTM-aist/win32/OpenRTM-aist/installer/OpenRTM-aist.wxs.in
+END
+WixUI_zh-tw.wxl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/win32/OpenRTM-aist/installer/WixUI_zh-tw.wxl
+END
+autowix.cmd.in
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/win32/OpenRTM-aist/installer/autowix.cmd.in
+END
+OpenRTM-aist.wxs.yaml.in
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/win32/OpenRTM-aist/installer/OpenRTM-aist.wxs.yaml.in
+END
+WixUI_ru-ru.wxl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/win32/OpenRTM-aist/installer/WixUI_ru-ru.wxl
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/OpenRTM-aist/!svn/ver/2188/trunk/OpenRTM-aist/win32/OpenRTM-aist/installer/Makefile.am
+END
+WixUI_es-es.wxl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/win32/OpenRTM-aist/installer/WixUI_es-es.wxl
+END
+WixUI_fr-fr.wxl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/win32/OpenRTM-aist/installer/WixUI_fr-fr.wxl
+END
+License.rtf
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/win32/OpenRTM-aist/installer/License.rtf
+END
+WixUI_de-de.wxl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/win32/OpenRTM-aist/installer/WixUI_de-de.wxl
+END
+WixUI_cs-cz.wxl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/win32/OpenRTM-aist/installer/WixUI_cs-cz.wxl
+END
+WixUI_da-dk.wxl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/win32/OpenRTM-aist/installer/WixUI_da-dk.wxl
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/OpenRTM-aist/!svn/ver/2223/trunk/OpenRTM-aist/packages/rpm
+END
+vine_repo.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/packages/rpm/vine_repo.sh
+END
+OpenRTM-aist.spec.in
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/packages/rpm/OpenRTM-aist.spec.in
+END
+dist_key.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/packages/rpm/dist_key.sh
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/packages/rpm/Makefile.am
+END
+fedora_rpmcp.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/packages/rpm/fedora_rpmcp.sh
+END
+pkgbuild.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/packages/rpm/pkgbuild.sh
+END
+rpm_build.sh.in
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/packages/rpm/rpm_build.sh.in
+END
+vine_rpmcp.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/packages/rpm/vine_rpmcp.sh
+END
+fedora_repo.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/packages/rpm/fedora_repo.sh
+END

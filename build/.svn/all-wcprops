@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/OpenRTM-aist/!svn/ver/2235/trunk/OpenRTM-aist/build
+END
+vcxprojtool.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/build/vcxprojtool.py
+END
+pkg_install_ubuntu.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/build/pkg_install_ubuntu.sh
+END
+pkg_install100_vine.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/build/pkg_install100_vine.sh
+END
+makedeffile.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/build/makedeffile.py
+END
+yat.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/build/yat.py
+END
+pkg_install_vl32.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/build/pkg_install_vl32.sh
+END
+vsprops2cmake.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/build/vsprops2cmake.py
+END
+setuptest.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/build/setuptest.py
+END
+ezt.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/build/ezt.py
+END
+headerlist.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/build/headerlist.sh
+END
+pkg_install_fedora.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/build/pkg_install_fedora.sh
+END
+pickupprojs.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/build/pickupprojs.py
+END
+autogen
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/OpenRTM-aist/!svn/ver/2235/trunk/OpenRTM-aist/build/autogen
+END
+pkg_install100_ubuntu.sh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/build/pkg_install100_ubuntu.sh
+END
+pkg_install_debianSarge.sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/build/pkg_install_debianSarge.sh
+END
+makewxs.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/OpenRTM-aist/!svn/ver/2189/trunk/OpenRTM-aist/build/makewxs.py
+END
+pkg_install_freebsd.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/build/pkg_install_freebsd.sh
+END
+pkg_install_fc6.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/build/pkg_install_fc6.sh
+END
+slntool.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/OpenRTM-aist/!svn/ver/2217/trunk/OpenRTM-aist/build/slntool.py
+END
+pkg_install100_fedora.sh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/build/pkg_install100_fedora.sh
+END
+pkg_install_debian.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/build/pkg_install_debian.sh
+END
+vcprojtool.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/build/vcprojtool.py
+END
+makevcproj.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/build/makevcproj.py
+END
+makewrapper.pl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/build/makewrapper.pl
+END
+codegen.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/build/codegen.py
+END
+distbuild.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/build/distbuild.sh
+END
+uuid.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/build/uuid.py
+END
+pkg_install_vine.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/build/pkg_install_vine.sh
+END
+pkg_install100_debian.sh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/build/pkg_install100_debian.sh
+END
+pkg_install_vl4.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/build/pkg_install_vl4.sh
+END
+makewrapper.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/build/makewrapper.py
+END
+cmakeconfgen.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/OpenRTM-aist/!svn/ver/2198/trunk/OpenRTM-aist/build/cmakeconfgen.py
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/build/Makefile.am
+END
+README.Debian
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/build/README.Debian
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/OpenRTM-aist/!svn/ver/2223/trunk/OpenRTM-aist/src/lib/coil/tests
+END
+coil_test_dll.vcproj.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/src/lib/coil/tests/coil_test_dll.vcproj.yaml
+END
+coiltest_config.vsprops
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/src/lib/coil/tests/coiltest_config.vsprops
+END
+coil_config.vsprops
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/src/lib/coil/tests/coil_config.vsprops
+END
+coil_test.sln.dep
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/src/lib/coil/tests/coil_test.sln.dep
+END
+coil_test.vcproj.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/src/lib/coil/tests/coil_test.vcproj.yaml
+END
+default.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/src/lib/coil/tests/default.xsl
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/src/lib/coil/tests/Makefile.am
+END
+TestRunner.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/src/lib/coil/tests/TestRunner.cpp
+END
+default.css
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/OpenRTM-aist/!svn/ver/2174/trunk/OpenRTM-aist/src/lib/coil/tests/default.css
+END
