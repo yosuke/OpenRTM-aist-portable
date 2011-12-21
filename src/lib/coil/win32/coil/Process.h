@@ -54,7 +54,7 @@ namespace coil
    *
    * @endif
    */
-  int launch_shell(std::string command);
+  int launch_shell(std::string command, bool wait=false);
 
   int daemon(int nochdir, int noclose);
 

@@ -29,7 +29,7 @@ namespace coil
    * @brief Launching a process
    * @endif
    */
-  int launch_shell(std::string command)
+  int launch_shell(std::string command, bool wait)
   {
 #ifdef UNICODE
 	// std::string -> LPTSTR
@@ -55,8 +55,9 @@ namespace coil
         delete lpcommand;
 	return -1;
       }
-    CloseHandle(pi.hProcess);
     CloseHandle(pi.hThread);
+    if (wait) WaitForSingleObject(pi.hProcess, INFINITE);
+    CloseHandle(pi.hProcess);
     delete lpcommand;
     return 0;
   }
