@@ -1700,6 +1700,7 @@ AC_OUTPUT([Makefile
 	utils/rtm-naming/Makefile
 	utils/rtcd/Makefile
 	utils/rtcprof/Makefile
+	utils/prtcd/Makefile
 	etc/Makefile
 	examples/Makefile
 	examples/AutoTest/Makefile

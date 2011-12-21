@@ -7,23 +7,28 @@
 usage()
 {
         cat <<EOF
-Usage: prtcc [BYTECODE FILE]
+Usage: prtcc [SOURCE OR BYTECODE FILE]
 EOF
         exit $1
 }
 
-MARCH=`uname -m`
-
-case $MARCH in
-arm* )
-  llc -march=arm -relocation-model=pic $1 -o $1.s
-  ;;
-i686 )
-  llc -relocation-model=pic $1 -o $1.s
-  ;;
-* )
-  echo "unsupported platform"
-  ;;
+case $1 in
+  *.bc)
+    MARCH=`uname -m`
+    case $MARCH in
+      arm*)
+        llc -march=arm -relocation-model=pic $1 -o $1.s
+        ;;
+      i686)
+        llc -relocation-model=pic $1 -o $1.s
+        ;;
+      *)
+        echo "unsupported platform"
+        ;;
+    esac
+    g++ -shared $1.s $rtm_libs -o $1.dll
+    ;;
+  *)
+    llvm-g++ -emit-llvm $rtm_cflags -c $1 -o ${1%.*}.bc
+    ;;
 esac
-
-g++ -shared $1.s $rtm_libs -o $1.dll

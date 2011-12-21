@@ -14,6 +14,7 @@ bin_SCRIPTS = prtcc
 prtcc: prtcc.in
 	echo '#!/bin/sh' > $@
 	echo '' >> $@
+	echo 'rtm_cflags="'${CXXFLAGS}' -I'${prefix}'/include -I'${coil_includedir}' -I'${rtm_includedir}' -I'${rtm_includedir}'/rtm/idl"' >> $@
 	echo 'rtm_libs="'${LDFLAGS}' -L'${prefix}'/lib '${LIBS}' -lRTC -lcoil"' >> $@
 	cat prtcc.in >> $@
 	chmod 755 $@
